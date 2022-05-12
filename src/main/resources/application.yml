@@ -1,0 +1,12 @@
+spring:
+  security:
+    user:
+      name: admin
+      password: admin
+server:
+  port : 9900
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
