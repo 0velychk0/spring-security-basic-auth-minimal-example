@@ -4,6 +4,7 @@ spring-security-basic-auth-minimal-example
 Based on:
 - spring-security
 - spring-boot-starter-web
+- in-Memory authentication
 
 Links:
 1) Open http://localhost:9900/free - page available without authorization
